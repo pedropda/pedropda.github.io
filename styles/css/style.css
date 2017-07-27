@@ -9,7 +9,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', serif;
   font-weight: 600;
-  color: 1a1a1a;
+  color: #000;
 }
 
 .content-section {
@@ -198,18 +198,18 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
   text-align: center;
 }
-/*
+
 #home h1 {
   
   font-size: 50px;
-  color: #000;
+  color: #fff;
   display: inline-block;
   margin: 0;
   padding: 0;
   line-height: 90px;
   margin-top: 60px;
 }
-*/
+
 #home h1:after {
   
 }
