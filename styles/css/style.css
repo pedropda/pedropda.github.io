@@ -198,10 +198,10 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
   text-align: center;
 }
-
+/*
 #home h1 {
   
-  font-size: 96px;
+  font-size: 50px;
   color: #000;
   display: inline-block;
   margin: 0;
@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 90px;
   margin-top: 60px;
 }
-
+*/
 #home h1:after {
   border-bottom: 1px solid #AAA;
 }
