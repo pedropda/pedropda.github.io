@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section p.lead {
-  font-family: 'Cardo', serif;
+  
   font-size: 19px;
   line-height: 1.35em;
   margin-bottom: 25px;
@@ -200,7 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #home h1 {
-  font-family: 'Advent Pro', sans-serif;
+  
   font-size: 96px;
   color: #000;
   display: inline-block;
@@ -278,7 +278,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section .thumbnail:after {
-  font-family: 'FontAwesome';
+  
   content: '\f121';
   color: #FFF;
   font-size: 48px;
