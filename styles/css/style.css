@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   #home h5 {
-    font-size: 19px;
+    font-size: 50px;
   }
 }
 @media screen and (min-width: 992px) {
@@ -234,11 +234,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 132px;
     margin-top: 70px;
   }
-
-  #home h5 {
-    font-size: 21px;
-  }
-}
+  
 @media screen and (min-width: 1200px) {
   #home h1 {
     font-size: 142px;
