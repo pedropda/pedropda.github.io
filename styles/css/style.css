@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .content-section h1 {
-  color: #9C9C9C;
+  
   font-weight: 400;
   font-size: 30px;
   display: inline-block;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 .content-section h1:after {
   content: '';
   display: block;
-  border-bottom: 1px solid #DFDFDF;
+  
   padding-top: 3px;
 }
 
@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default {
   font-family: 'Montserrat', serif;
   background: #FFFFFF;
-  border-bottom-color: #DFDFDF;
+  
   height: 60px;
   margin-bottom: 0;
 }
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-nav > li > a {
   color: #222;
   padding: 10px;
-  border-bottom: 1px solid #DFDFDF;
+  
 }
 
 .navbar-default .navbar-nav > li > a.selected {
@@ -211,7 +211,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 */
 #home h1:after {
-  border-bottom: 1px solid #AAA;
+  
 }
 
 #home h5 {
